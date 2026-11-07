@@ -1,0 +1,8 @@
+osmnx
+networkx
+geopandas
+numpy
+pandas
+matplotlib
+jupyter
+pytest
